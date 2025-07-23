@@ -6,7 +6,7 @@
 
 ## Usage
 
-bash Reconbro.sh example.com
+`bash Reconbro.sh example.com`
 
 ---
 
@@ -45,6 +45,5 @@ To install dependencies for SecretFinder:
 ```bash
 pip install requests jsbeautifier lxml requests-file
 
----
 
 
