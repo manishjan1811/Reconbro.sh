@@ -38,3 +38,8 @@ Also ensure `python3`, `virtualenv`, and `pip` are installed.
 To install dependencies for SecretFinder:
 ```bash
 pip install requests jsbeautifier lxml requests-file
+
+---
+
+bash Reconbro.sh example.com
+
