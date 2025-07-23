@@ -4,6 +4,12 @@
 
 ---
 
+## Usage
+
+bash Reconbro.sh example.com
+
+---
+
 ## 🚀 Features
 
 - ✅ Automated Subdomain Enumeration  
@@ -41,5 +47,4 @@ pip install requests jsbeautifier lxml requests-file
 
 ---
 
-bash Reconbro.sh example.com
 
