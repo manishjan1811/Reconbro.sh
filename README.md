@@ -4,6 +4,14 @@
 
 ---
 
+## ⚙️ Quick Setup
+
+Before using `Reconbro.sh`, run the following setup script to automatically install all required tools and dependencies:
+
+`bash setup.sh`
+
+---
+
 ## Usage
 
 `bash Reconbro.sh example.com`
